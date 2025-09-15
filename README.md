@@ -1,9 +1,9 @@
-🌦️ Live Weather App
+# 🌦️ Live Weather App
 
 A simple and elegant web application that displays **real-time weather information** for any city using the [OpenWeatherMap API](https://openweathermap.org/api).  
 It dynamically updates the background image based on the searched city using [Unsplash](https://unsplash.com/).
 
-🚀 Features
+## 🚀 Features
 
 - 🌍 **Search by City** – Get live weather updates for any location worldwide.
 - 🌡 **Temperature in Celsius** – Converts data from Kelvin to Celsius.
@@ -11,12 +11,12 @@ It dynamically updates the background image based on the searched city using [Un
 - 📱 **Responsive Design** – Works on desktops, tablets, and mobiles.
 - ⚡ **Fast & Lightweight** – Pure HTML, CSS, and JavaScript (no frameworks).
 
-🛠️ Tech Stack
+## Technologies Used
 
 - **HTML5** – Structure and content  
 - **CSS3** – Styling and layout  
 - **JavaScript (ES6)** – Fetching data and DOM manipulation  
-- **OpenWeatherMap API** – Weather data  
+- **OpenWeatherMap API** – Real time Weather data  
 - **Unsplash** – Background images
   
 📂 Project Structure
